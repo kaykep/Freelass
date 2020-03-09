@@ -1,0 +1,3 @@
+Esta pagina sera listado tudo oque for mudado,ou tiver de objetivo,caso tenha algum objetivo,escreva na pasta "object",caso for concluida,arraste para conclusao.
+
+obs:Sempre anotando em 1 bloco oque foi trabalhado,na pasta "historico"
